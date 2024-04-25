@@ -1,0 +1,21 @@
+* Warning Its VERY Slow *
+
+Get a extention called REDIRECTOR
+https://chromewebstore.google.com/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd
+Then Click on it and press Edit Redirects
+Then once ur in it set this up 
+
+Redirect:	Https://www.Youtube.com/*
+to:	https://yt2009mobile.onrender.com/
+Example:	Https://www.Youtube.com/ → https://yt2009mobile.onrender.com/
+Applies to:	Main window (address bar)
+
+and for old google
+
+
+Redirect:	https://www.google.com/
+to:	https://oldgoogle.neocities.org/2010/
+Example:	https://www.google.com/ → https://oldgoogle.neocities.org/2010/
+Applies to:	Main window (address bar)
+
+and if you dont want to use it anymore click on the extention and presss Disable
