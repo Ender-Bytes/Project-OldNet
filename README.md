@@ -1,6 +1,3 @@
-
-Project Old Net
-Introduction
 Project Old Net aims to bring back the simplicity and nostalgia of the early internet. By revisiting its design and functionalities, we provide users with a refreshing alternative to the complexities of the modern web.
                                                                                     
 Features
